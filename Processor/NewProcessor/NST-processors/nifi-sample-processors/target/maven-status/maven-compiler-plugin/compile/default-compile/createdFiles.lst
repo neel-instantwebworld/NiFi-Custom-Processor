@@ -1,0 +1,17 @@
+nst\processors\sample\JSONToSQLwithUPSERT$1.class
+nst\processors\sample\JSONToSQLwithUPSERT$TableSchema.class
+nst\processors\sample\Put2SQL$1.class
+nst\processors\sample\Put2SQL$StatementFlowFileEnclosure.class
+nst\processors\sample\MyProcessor.class
+nst\processors\sample\Put2SQL.class
+nst\processors\sample\JSONToSQLwithUPSERT$ColumnDescription.class
+nst\processors\sample\JSONToSQLwithUPSERT$2.class
+nst\processors\sample\Put2SQL$FragmentedEnclosure.class
+nst\processors\sample\Put2SQL$FlowFilePoll.class
+nst\processors\sample\Put2SQL$TransactionalFlowFileFilter.class
+nst\processors\sample\JSONToSQLwithUPSERT.class
+nst\processors\sample\Put2SQL$GroupingFunction.class
+nst\processors\sample\JSONToSQLwithUPSERT$3.class
+nst\processors\sample\Put2SQL$FunctionContext.class
+nst\processors\sample\JSONToSQLwithUPSERT$SchemaKey.class
+nst\processors\sample\Put2SQL$2.class
